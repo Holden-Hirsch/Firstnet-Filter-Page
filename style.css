@@ -150,7 +150,7 @@ Blog-Area
 
 .bttn-more {
     display: inline-block;
-    color: #7028e4;
+    color: #169AD1;
     font-weight: 300;
     font-size: 16px;
 }
@@ -178,10 +178,10 @@ Blog-Area
     line-height: 45px;
     font-size: 18px;
     font-weight: 300;
-    background: #e641cd;
-    background: linear-gradient(45deg, #e641cd 1%, #7028e4 99%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e641cd', endColorstr='#7028e4', GradientType=1);
-    color: #7028e4;
+    background: #53C8E9;
+    background: linear-gradient(45deg, #53C8E9 1%, #169AD1 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e641cd', endColorstr='#169AD1', GradientType=1);
+    color: #53C8E9;
     display: inline-block;
     text-align: center;
     border-radius: 2px;
@@ -316,8 +316,8 @@ Blog-Area
     text-align: center;
     color: #fff;
     background: #e641cd;
-    background: linear-gradient(45deg, #e641cd 1%, #7028e4 99%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e641cd', endColorstr='#7028e4', GradientType=1);
+    background: linear-gradient(45deg, #e641cd 1%, #169AD1 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e641cd', endColorstr='#169AD1', GradientType=1);
     border-radius: 100%;
     -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, .1);
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, .1);
@@ -425,14 +425,14 @@ Blog-Area
 
 .popular-post .post-meta > span i.fa {
     font-size: 13px;
-    color: #7028e4;
+    color: #169AD1;
 }
 
 .popular-post .post-title {
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 0;
-    color: #7028e4;
+    color: #169AD1;
     display: contents;
 }
 

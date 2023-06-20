@@ -54,8 +54,8 @@ CSS INDEX
 .price-area.v2,
 .product-area.v2,
 .header-area.v2 {
-    background-image: -webkit-gradient(linear, left top, right top, from(#5040F4), to(#31B4FE));
-    background-image: linear-gradient(to right, #5040F4 0%, #31B4FE 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#53C8E9), to(#169AD1));
+    background-image: linear-gradient(to right, #53C8E9 0%, #169AD1 100%);
 }
 
 .footer-area.v2 {
@@ -160,11 +160,11 @@ CSS INDEX
 }
 
 .mainmenu-area.transparent.affix {
-    background-color: #7D37E1
+    background-color: #53C8E9
 }
 
 .mainmenu-area.v2.transparent.affix {
-    background-color: #2277FA
+    background-color: #169AD1
 }
 
 .site-brand .logo {
@@ -442,7 +442,7 @@ CSS INDEX
     top: 0;
     height: 100vh;
     min-width: 350px;
-    background-color: #7D37E1;
+    background-color: #169AD1;
     padding: 100px 30px;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -631,7 +631,7 @@ ul.product-details li .title {
 .testimonail-item .testimonail-footer:after {
     content: '"';
     font-size: 200px;
-    color: #B181FF;
+    color: #53C8E9;
     opacity: 0.16;
     position: absolute;
     right: 50px;
@@ -819,7 +819,7 @@ ul.product-details li .title {
 }
 
 .v3 .nav-control .control {
-    background-color: #8A19FA;
+    background-color: #169AD1;
 }
 
 .nav-control .control:hover {
@@ -852,7 +852,7 @@ ul.product-details li .title {
 }
 
 .v3 .nav-control .control.left:after {    
-    border-right: 8px solid #8A19FA;
+    border-right: 8px solid #169AD1;
 }
 .nav-control .control.right:after {
     content: "";
@@ -866,7 +866,7 @@ ul.product-details li .title {
     top: -6px;
 }
 .v3 .nav-control .control.right:after {
-    border-left: 8px solid #8A19FA;    
+    border-left: 8px solid #169AD1;    
 }
 
 /*-----------------
