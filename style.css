@@ -36,7 +36,7 @@ a:focus,
 a:hover {
     text-decoration: none;
     outline: none;
-    color: #674DD6;
+    color: #169AD1;
 }
 
 img {
@@ -84,8 +84,8 @@ input:-webkit-autofill:focus {
 Blog-Area
 ----------------------*/
 .site-header {
-    background: #e641cd;
-    background: linear-gradient(45deg, #8323ED 1%, #4D0BFD 99%);
+    background: #169AD1;
+    background: linear-gradient(45deg, #169AD1 1%, #53C8E9 99%);
     color: #fff;
     padding-top: 150px;
     padding-bottom: 150px;
